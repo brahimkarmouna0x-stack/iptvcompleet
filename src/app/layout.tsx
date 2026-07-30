@@ -109,7 +109,7 @@ export const metadata: Metadata = {
   },
   // Google Search Console verification for the iptvcompleet.store property.
   verification: {
-    google: "5Fiq2Zuyr-GB117NMmXA9WJBgXOJls3ccMeKqPssLDg",
+    google: "CcYHdFOR1w7M-9CBkURHO78kaovG0KJu23S2zQl7_Tg",
   },
 };
 
