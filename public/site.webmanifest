@@ -1,0 +1,49 @@
+{
+  "name": "IPTV Compleet",
+  "short_name": "IPTV Compleet",
+  "description": "Stabiele 4K streaming zonder onderbrekingen, met meer dan 31.000 zenders. Ontdek het complete premium IPTV-abonnement in Nederland bij IPTV Compleet.",
+  "lang": "nl-NL",
+  "dir": "ltr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060B16",
+  "theme_color": "#060B16",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png?v=8",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-256x256.png?v=8",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-192x192.png?v=8",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png?v=8",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-maskable-192x192.png?v=8",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/android-chrome-maskable-512x512.png?v=8",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
